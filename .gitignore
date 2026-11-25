@@ -1,0 +1,54 @@
+# Environment variables - NEVER commit this
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Database files (contains sensitive customer data)
+data/*.db
+data/*.db-journal
+
+# Audio temp files
+*.wav
+*.mp3
+*.ogg
+temp_audio/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Uploaded knowledge base files (optional - keep sample)
+data/uploads/
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# Jupyter notebooks (if any)
+.ipynb_checkpoints/
+
+# Pytest cache
+.pytest_cache/

@@ -1,0 +1,193 @@
+rewrte this whole with udated ====================================================
+FORTIVEX AI PRIVATE LIMITED - Company Knowledge Base
+====================================================
+Version: 1.0 | Last Updated: November 2025
+====================================================
+
+----------------------------
+SECTION 1: COMPANY OVERVIEW
+----------------------------
+Company Name: FORTIVEX AI Private Limited
+Founded: 2022
+Headquarters: Bengaluru, Karnataka, India
+Mission: Empowering businesses with cutting-edge AI automation solutions that drive efficiency, growth and revenue.
+Vision: To become India's leading AI-powered business automation company by 2027.
+Team Size: 50+ professionals including AI researchers, engineers and business consultants.
+Clients Served: 200+ companies across India, Southeast Asia and the Middle East.
+
+About Us:
+FORTIVEX AI specializes in building intelligent automation solutions for mid-sized and enterprise businesses. We combine the latest advancements in generative AI, machine learning and voice technology to create products that genuinely solve business problems. Our team includes alumni from IITs, NITs and top global universities.
+
+----------------------------
+SECTION 2: PRODUCTS & SERVICES
+----------------------------
+
+PRODUCT 1: FORTIVEX VoiceAgent Pro
+Type: AI Voice Sales Agent (SaaS)
+Description: An intelligent, fully autonomous AI voice agent that handles inbound and outbound sales calls, qualifies leads, answers product questions and books appointments — without any human involvement.
+Best For: Sales teams, BPOs, real estate agencies, healthcare providers, EdTech platforms.
+
+Key Features:
+- 24/7 autonomous voice calling with zero downtime
+- Multilingual support (English, Hindi, Tamil, Telugu, Kannada)
+- Real-time lead qualification scoring
+- CRM integration (Salesforce, HubSpot, Zoho CRM)
+- Call analytics and sentiment tracking
+- Appointment scheduling and calendar sync
+- Automated follow-up sequences
+- Custom persona and brand voice configuration
+
+PRODUCT 2: FORTIVEX InsightIQ
+Type: Business Intelligence & Analytics Platform (SaaS)
+Description: A powerful AI-driven analytics dashboard that transforms raw business data into actionable insights using natural language queries. Ask questions in plain English and get instant visual reports.
+Best For: Business analysts, operations teams, C-suite executives.
+
+Key Features:
+- Natural language to SQL query generation
+- Real-time data connectors (MySQL, PostgreSQL, Snowflake, BigQuery)
+- Automated report generation and scheduling
+- Predictive analytics and forecasting
+- Custom KPI dashboards
+- Role-based access control
+- Slack and email report delivery
+
+PRODUCT 3: FORTIVEX DocuSense
+Type: Intelligent Document Processing (IDP) Platform
+Description: AI-powered document extraction, classification and processing platform. Automatically reads, understands and extracts structured data from invoices, contracts, medical records and legal documents.
+Best For: Finance, legal, healthcare, logistics sectors.
+
+Key Features:
+- 99.2% extraction accuracy
+- Support for 50+ document types
+- Multi-language OCR
+- Smart field validation and correction
+- ERP integration (SAP, Oracle, Tally)
+- Audit trail and compliance logs
+- Batch processing of 10,000+ documents/day
+
+PRODUCT 4: FORTIVEX ChatAssist
+Type: AI Customer Support Chatbot
+Description: Deploy an intelligent, context-aware chatbot on your website, WhatsApp and mobile app that handles 80% of customer queries automatically.
+Best For: E-commerce, banking, insurance, travel, hospitality.
+
+Key Features:
+- GPT-powered natural conversations
+- WhatsApp Business API integration
+- Multi-channel deployment (web, mobile, WhatsApp, Telegram)
+- Automatic ticket escalation to human agents
+- Knowledge base management
+- 50+ native language support
+- Custom workflow builder
+
+----------------------------
+SECTION 3: PRICING PLANS
+----------------------------
+
+VoiceAgent Pro Pricing:
+- Starter Plan: ₹8,000/month — Up to 500 calls/month, 2 agent personas, basic analytics, email support
+- Growth Plan: ₹18,000/month — Up to 2,000 calls/month, 5 agent personas, full analytics, CRM integration, priority support
+- Enterprise Plan: Custom Pricing — Unlimited calls, unlimited personas, dedicated infrastructure, SLA guarantee, 24/7 support, on-premise option available
+
+InsightIQ Pricing:
+- Basic: ₹5,000/month — 3 users, 2 data connectors, standard dashboards
+- Professional: ₹12,000/month — 15 users, 10 data connectors, custom dashboards, predictive analytics
+- Enterprise: Custom — Unlimited users, all connectors, white-label option
+
+DocuSense Pricing:
+- Starter: ₹6,000/month — Up to 1,000 documents/month
+- Business: ₹14,000/month — Up to 10,000 documents/month
+- Enterprise: Custom — Unlimited, with SLA
+
+ChatAssist Pricing:
+- Basic: ₹3,500/month — Up to 1,000 conversations/month, web only
+- Professional: ₹9,000/month — Up to 5,000 conversations/month, all channels
+- Enterprise: Custom — Unlimited, with dedicated support
+
+Free Access: FORTIVEX VoiceAgent Pro is a free AI-powered sales voice agent prototype. No subscription, credit card, or trial activation is required. Usage is subject to third-party API limits.
+Annual Discount: 20% discount on all plans when billed annually.
+
+----------------------------
+SECTION 4: FREQUENTLY ASKED QUESTIONS
+----------------------------
+
+Q: How long does implementation take?
+A: VoiceAgent Pro can be set up in 2-3 days. InsightIQ and ChatAssist take 1 week. DocuSense custom implementations take 2-3 weeks depending on document complexity.
+
+Q: Do you offer a free trial?
+A: Yes! All our products come with a 14-day free trial. No credit card required. You get full access to all features during the trial period.
+
+Q: Can the VoiceAgent speak in Hindi or regional languages?
+A: Yes. VoiceAgent Pro supports English, Hindi, Tamil, Telugu, Kannada and Marathi. Additional languages can be added on request with a 2-week turnaround.
+
+Q: Is our data secure?
+A: Absolutely. We are ISO 27001 certified and compliant with India's Digital Personal Data Protection Act (DPDPA). All data is encrypted at rest and in transit using AES-256. We offer on-premise deployment for enterprise clients who require complete data sovereignty.
+
+Q: Can I integrate your products with my existing CRM?
+A: Yes. VoiceAgent Pro natively integrates with Salesforce, HubSpot, Zoho CRM, Freshsales and Pipedrive. Custom integrations via REST APIs are available for all plans.
+
+Q: What kind of support do you provide?
+A: Starter plans receive email support with a 24-hour response SLA. Growth plans get priority support with a 4-hour SLA. Enterprise clients get a dedicated customer success manager and 24/7 phone and email support.
+
+Q: Do you offer custom AI model training?
+A: Yes. For enterprise clients, we offer custom fine-tuning of AI models on your proprietary data to improve accuracy and brand alignment. This is available as an add-on service.
+
+Q: What is your uptime guarantee?
+A: We guarantee 99.9% uptime for all SaaS products. Enterprise clients can negotiate a 99.95% SLA with penalty clauses.
+
+Q: Can I export my data if I cancel the subscription?
+A: Yes. We provide full data export in CSV, JSON and Excel formats within 48 hours of a cancellation request. We retain your data for 30 days post-cancellation before permanently deleting it.
+
+Q: Do you have case studies or references?
+A: Yes. We have worked with clients in fintech, healthcare, real estate and EdTech. We can share relevant case studies on request. References can be arranged for enterprise prospects.
+
+----------------------------
+SECTION 5: CONTACT INFORMATION
+----------------------------
+Sales Email: sales@fortivex.ai
+Support Email: support@fortivex.ai
+Phone: +91-80-4567-8900
+WhatsApp: +91-98765-43210
+
+Office Address:
+FORTIVEX AI Private Limited
+3rd Floor, Prestige Tech Park,
+Outer Ring Road, Marathahalli,
+Bengaluru, Karnataka 560103, India
+
+Business Hours: Monday to Friday, 9:00 AM to 7:00 PM IST
+Demo Booking: https://fortivex.ai/book-demo
+
+Social Media:
+LinkedIn: linkedin.com/company/fortivex-ai
+Twitter: @FortivexAI
+YouTube: youtube.com/fortivexai
+
+----------------------------
+SECTION 6: PARTNERSHIPS & CERTIFICATIONS
+----------------------------
+- Google Cloud Partner
+- Microsoft Azure Partner
+- AWS Partner Network (Standard Tier)
+- ISO 27001:2013 Certified
+- Nasscom Member
+- Startup India Recognized
+- DPDPA Compliant
+
+----------------------------
+SECTION 7: SUCCESS STORIES
+----------------------------
+
+Case Study 1 - PropConnect Realty (Real Estate):
+Challenge: Managing 500+ inbound property inquiry calls daily with only 8 agents.
+Solution: Deployed VoiceAgent Pro for inbound qualification and appointment booking.
+Results: 72% reduction in agent workload, 3x increase in qualified leads, ₹18 lakh/month saved in staffing costs.
+
+Case Study 2 - HealthFirst Clinics (Healthcare):
+Challenge: High no-show rates and manual appointment scheduling causing revenue loss.
+Solution: VoiceAgent Pro for appointment reminders and rescheduling automation.
+Results: 45% reduction in no-shows, 60% reduction in front-desk call volume.
+
+Case Study 3 - EduPath Learning (EdTech):
+Challenge: Slow document processing for student enrollment forms and certificates.
+Solution: DocuSense for automated form extraction and verification.
+Results: Processing time reduced from 3 days to 4 hours per batch. 98.9% accuracy achieved.
